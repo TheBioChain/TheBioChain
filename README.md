@@ -16,7 +16,7 @@ Based in Oxford and Ghent. Active across archaeogenomics, livestock health, and 
 
 [**thebiochain.com**](https://thebiochain.com)
 
-### ✉️ Get in touch
+### Get in touch
 
 - Research — `research@thebiochain.com`
 - Partnerships — `partnerships@thebiochain.com`
