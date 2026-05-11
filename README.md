@@ -8,11 +8,11 @@ Based in Oxford and Ghent. Active across archaeogenomics, livestock health, and 
 
 ---
 
-### 🔬 Open research
+### Open research
 
 [**research.thebiochain.com**](https://research.thebiochain.com) — papers, field reports and technical notes from active projects, published quarterly.
 
-### 🌐 Commercial platform
+### Commercial platform
 
 [**thebiochain.com**](https://thebiochain.com)
 
